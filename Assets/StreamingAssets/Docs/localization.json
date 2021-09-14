@@ -1,0 +1,252 @@
+{
+    "ScoreBored": {
+        "Rus": "ADBan'ов:\n%s",
+        "Eng": "ADBans:\n%s"
+    },
+    "Cost": {
+        "Rus": "Цена:\n%s",
+        "Eng": "Cost:\n%s"
+    },
+    "PerSecond": {
+        "Rus": "+%s ADBans/c",
+        "Eng": "+%s ADBans/s"
+    },
+    "LvlCost": {
+        "Rus": "Чтобы открыть необходимо затратить %s ADBan",
+        "Eng": "For open you need to pay %s ADBan"
+    },
+    "StatsArtical": {
+        "Rus": "Статистика:",
+        "Eng": "Statistic:"
+    },
+    "EverScore": {
+        "Rus": "ADBan за все время: %s",
+        "Eng": "Ever ADBan: %s"
+    },
+    "Clicks": {
+        "Rus": "Кликов: %s",
+        "Eng": "Clicks: %s"
+    },
+    "TimeUngame": {
+        "Rus": "Время в игре: %s",
+        "Eng": "Time in game: %s"
+    },
+    "LastVisit": {
+        "Rus": "Время с последней чистки: ",
+        "Eng": "Time since last clean: "
+    },
+    "MuchAdd": {
+        "Rus": "ADBan получено за это время: ",
+        "Eng": "ADBan get during this time: "
+    },
+    "BuffPanel": {
+        "Rus": "Хотите увеличить полученные ADBan в %s раз?",
+        "Eng": "Do you want to introduce your getting ADBan in %s times?"
+    },
+    "GetBuffPanel": {
+        "Rus": "Хотите получить бафф x%b на %s минут",
+        "Eng": "Do you want to get buff x%b for %s minutes"
+    },
+    "Language": {
+        "Rus": "Язык",
+        "Eng": "Language"
+    },
+    "MusicArtical": {
+        "Rus": "Громкость музыки",
+        "Eng": "Music Volume"
+    },
+    "ExitPanelText": {
+        "Rus": "Вы действительно хотите завершить? А сохранить?",
+        "Eng": "Do you really want to leave? What about save?"
+    },
+    "DeleteAD": {
+        "Rus": "Вы действительно хотите удалить рекламу:\n%s ?",
+        "Eng": "Do you really want to delete ad:\n%s ?"
+    },
+    "YesText": {
+        "Rus": "Да",
+        "Eng": "Yes"
+    },
+    "NoText": {
+        "Rus": "Нет",
+        "Eng": "No"
+    },
+    "Shop": {
+        "Rus": "Магазин на диване",
+        "Eng": "Home shoping"
+    },
+    "Levels": {
+        "Rus": "Уровни",
+        "Eng": "Levels"
+    },
+    "SaveAndExit": {
+        "Rus": "Сохранить\n   и выйти",
+        "Eng": "  Save &\n    Leave"
+    },
+	"Save":{
+        "Rus": "Сохранить",
+        "Eng": "Save"
+	},
+	"Leave":{
+        "Rus": "Выйти без сохранения",
+        "Eng": "Don't Save & Leave"
+	},
+    "Choice": {
+        "Rus": "Редактировать рекламу",
+        "Eng": "Edit ad"
+    },
+    "Load": {
+        "Rus": "Вставить изображение",
+        "Eng": "Insert image"
+    },
+    "Score": {
+        "Rus": "ADBan",
+        "Eng": "ADBan"
+    },
+    "Second": {
+        "Rus": "За секунду",
+        "Eng": "Per second"
+    },
+    "Time": {
+        "Rus": "Время",
+        "Eng": "Time"
+    },
+    "Wasted": {
+        "Rus": "Потрачено",
+        "Eng": "Wasted"
+    },
+    "BlueScreen": {
+        "Rus": "Вылеты",
+        "Eng": "Crash"
+    },
+    "Archivs": {
+        "Rus": "Достижений",
+        "Eng": "Archivments"
+    },
+    "isOpen": {
+        "Rus": "Не открыт",
+        "Eng": "is closed"
+    },
+	"Grades":{
+        "Rus": "Улучшения",
+        "Eng": "Grades"
+	},
+	"Busters":{
+        "Rus": "Бусты",
+        "Eng": "Busters"
+	},
+	"ContractsOffer":{
+        "Rus": "Желаете ли Вы заполучить бесплатные контракты в размере %s штук",
+        "Eng": "Do you wish to get a free contracts in the amount of %s pieces"
+	},
+	"SoundArtical":{
+        "Rus": "Громкость клика",
+        "Eng": "Click Volume"
+	},
+	"ContractCost":{
+		"Rus": "Цена: %s контрактов",
+		"Eng": "Cost: %s contracts"
+	},
+	"Next":{
+		"Rus": "Дальше",
+		"Eng": "Next"
+	},
+	"WelcomeText":{
+		"Rus": "Добро пожаловать, Slayer!",
+		"Eng": "Welcome back, Slayer!"
+	},
+	"Soon":{
+		"Rus": "Скоро",
+		"Eng": "Coming soon" 
+	},
+	"Pack":{
+		"Rus": "Паки",
+		"Eng": "Packs" 
+	},
+    "Mantise": [
+        {
+            "Rus": "K",
+            "Eng": "K"
+        },
+        {
+            "Rus": "M",
+            "Eng": "M"
+        },
+        {
+            "Rus": "B",
+            "Eng": "B"
+        },
+        {
+            "Rus": "T",
+            "Eng": "T"
+        },
+        {
+            "Rus": "q",
+            "Eng": "q"
+        },
+        {
+            "Rus": "Q",
+            "Eng": "Q"
+        },
+        {
+            "Rus": "s",
+            "Eng": "s"
+        },
+        {
+            "Rus": "S",
+            "Eng": "S"
+        },
+        {
+            "Rus": "O",
+            "Eng": "O"
+        },
+        {
+            "Rus": "N",
+            "Eng": "N"
+        },
+        {
+            "Rus": "d",
+            "Eng": "d"
+        },
+        {
+            "Rus": "U",
+            "Eng": "U"
+        },
+        {
+            "Rus": "D",
+            "Eng": "D"
+        },
+        {
+            "Rus": "Tre",
+            "Eng": "Tre"
+        },
+        {
+            "Rus": "Qua",
+            "Eng": "Qua"
+        },
+        {
+            "Rus": "Qui",
+            "Eng": "Qui"
+        },
+        {
+            "Rus": "SE",
+            "Eng": "SE"
+        },
+        {
+            "Rus": "SEP",
+            "Eng": "SEP"
+        },
+        {
+            "Rus": "OC",
+            "Eng": "OC"
+        },
+        {
+            "Rus": "NV",
+            "Eng": "NV"
+        },
+        {
+            "Rus": "VIG",
+            "Eng": "VIG"
+        }
+    ]
+}

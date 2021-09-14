@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d55e0dcc1519f4147ba580167a972d4d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Play
+  fontNames:
+  - Play
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60520cdb218b6e2498708f65150e4e15, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

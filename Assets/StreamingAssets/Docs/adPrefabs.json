@@ -1,0 +1,1933 @@
+[
+  {
+    "Path": "DesktopBG",
+    "Archivment": {
+        "Score": [
+            {
+                "Text": {
+                    "Rus": "10^0 - Разобрался как закрыть чёртов баннер? Да ты герой!",
+                    "Eng": "10^0 - Understood how to close the damn banner? Yes you are a hero!"
+                },
+                "Power": 0
+            },
+            {
+                "Text": {
+                    "Rus": "10^4 - Закрываешь баннеры и улучшаешь комп, фантастика!",
+                    "Eng": "10^4 - Close the banners and improve the computer, fantastic!"
+                },
+                "Power": 4
+            },
+            {
+                "Text": {
+                    "Rus": "10^6 - Рекламные агентства выстраиваются в очередь",
+                    "Eng": "10^6 - Advertising agencies line up"
+                },
+                "Power": 6
+            },
+            {
+                "Text": {
+                    "Rus": "10^9 - Боже, хочешь взорвать сервера хостинга?",
+                    "Eng": "10^9 - Oh my god, do you want to blow up a hosting server?"
+                },
+                "Power": 9
+            },
+            {
+                "Text": {
+                    "Rus": "10^12 - Триллион! Признайся ты просто приобрёл квантовый компьютер? Суперкомпьютер? Только не говори что ты включил в сеть всю индию",
+                    "Eng": "10^12 - Trillion! Admit you just bought a quantum computer? Supercomputer? Don’t say that you included all of India in the network"
+                },
+                "Power": 12
+            },
+            {
+                "Text": {
+                    "Rus": "10^18 - Квинтиллион! Ты цифры-то такие знаешь вообще?Не бойся тут всё в ADBan",
+                    "Eng": "10^18 - Quintillion! Do you know such numbers at all? Don’t be afraid here everything in ADBan"
+                },
+                "Power": 18
+            },
+            {
+                "Text": {
+                    "Rus": "10^24 - Первый септиллион. Move on!",
+                    "Eng": "10^24 - First septillion"
+                },
+                "Power": 24
+            },
+            {
+                "Text": {
+                    "Rus": "10^30 - Нониллион. Скок тепла выделил ты за это время, думаешь уничтожить атмосферу Земли? ",
+                    "Eng": "10^30 - Nonillion. You allocated a lope of heat during this time, you think to destroy the atmosphere of the Earth?"
+                },
+                "Power": 30
+            },
+            {
+                "Text": {
+                    "Rus": "10^36 - Вот и он рубеж - Ундециллион,ты вогнал мир в хаус, но не заметил так как закрыл ундециллион рекламы, что теперь реальность ты не представляешь, тебе кажется, что за твоим окном происходит новая съёмка рекламы. Мы от лица сообщества ADBanners благодарны тебе за помощь в уничтожении Земли!.",
+                    "Eng": "10^36 -  And here’s the line - the Undecillion, you drove the world into a house, but you didn’t notice because you closed the undecillion of advertisements, that now you can’t imagine the reality, it seems to you that a new advertisement is being shot outside your window. On behalf of the ADBanners community, we thank you for your help in destroying the Earth!"
+                },
+                "Power": 36
+            }
+        ],
+        "Second": [
+            {
+                "Text": {
+                    "Rus": "10^1 - Ощутил прелесть компьютера?Он делает всё за тебя!",
+                    "Eng": "10^1 - Did you feel the beauty of the computer? It does everything for you!"
+                },
+                "Power": 1
+            },
+            {
+                "Text": {
+                    "Rus": "10^3 - Любишь разгонять проц?",
+                    "Eng": "10^3 - Do you like to overclock the processor?"
+                },
+                "Power": 3
+            },
+            {
+                "Text": {
+                    "Rus": "10^6 - В игре нет придела, гони",
+                    "Eng": "10^6 - The game has no chapel, drive"
+                },
+                "Power": 6
+            },
+            {
+                "Text": {
+                    "Rus": "10^9 - Иди поспи, Комьютер сам потикает рекламу",
+                    "Eng": "10^9 - Go to sleep, the computer itself is ticking an advertisement"
+                },
+                "Power": 9
+            },
+            {
+                "Text": {
+                    "Rus": "10^15 - Ты уже близко. Кол-во рекламщиков под твоим окном увеличилось в трое",
+                    "Eng": "10^15 - You're already close. The number of advertisers under your window has increased in three"
+                },
+                "Power": 15
+            },
+            {
+                "Text": {
+                    "Rus": "10^21 - Тают льды, бегут очки, комьютер твой поглащает миры",
+                    "Eng": "10^21 - Ice is melting, points are running, your computer is swallowing up the worlds"
+                },
+                "Power": 21
+            }
+        ],
+        "Time": [
+            {
+                "Text": {
+                    "Rus": "1час - Смотрю ты решил задержаться, на долго?",
+                    "Eng": "hour - I look, you decided to linger. for a long time?"
+                },
+                "Power": 1
+            },
+            {
+                "Text": {
+                    "Rus": "2 - Ого 2 час тык тык пальцем по рекламе",
+                    "Eng": "2 hours - Wow 2 hour poke poke finger advertising"
+                },
+                "Power": 2
+            },
+            {
+                "Text": {
+                    "Rus": "6 - Неужели интересно?",
+                    "Eng": "6 hours - Is it really interesting?"
+                },
+                "Power": 6
+            },
+            {
+                "Text": {
+                    "Rus": "12 - 12 часов, ты бьёшь все рекорды. Видимо хочешь сам увидеть RTX",
+                    "Eng": "12 hours - 12 hours, you break all records. Apparently you want to see RTX yourself"
+                },
+                "Power": 12
+            },
+            {
+                "Text": {
+                    "Rus": "24 - Целые сутки ААААА Мощь переполняет!!!!",
+                    "Eng": "24 hours - The whole day AAAAA Power overwhelms !!!!"
+                },
+                "Power": 24
+            }
+        ],
+        "Wasted": [
+            {
+                "Text": {
+                    "Rus": "10^3 - Магазин всегда открыт",
+                    "Eng": "10^3 - The store is always open"
+                },
+                "Power": 3
+            },
+            {
+                "Text": {
+                    "Rus": "10^6 - Лучший подарок любимой это Шум нового проца",
+                    "Eng": "10^6 - The best gift for your beloved is the noise of the new processor"
+                },
+                "Power": 6
+            },
+            {
+                "Text": {
+                    "Rus": "10^9 - Наши продавцы помогут выбрать оптимальные улучшения",
+                    "Eng": "10^9 - Our sellers will help you choose the best improvements."
+                },
+                "Power": 9
+            },
+            {
+                "Text": {
+                    "Rus": "10^12 - Видели новые видюхи? Да они с RTX",
+                    "Eng": "10^12 - Have you seen new vidyuhi? Yes they are with RTX"
+                },
+                "Power": 12
+            },
+            {
+                "Text": {
+                    "Rus": "10^15 - Почему бы вам просто не скупить весь магазин?",
+                    "Eng": "10^15 - Why don't you just buy the whole store?"
+                },
+                "Power": 15
+            },
+            {
+                "Text": {
+                    "Rus": "10^24 - Взнос за членство в клубе",
+                    "Eng": "10^24 - Club Membership Fee"
+                },
+                "Power": 24
+            }
+        ],
+        "BlueScreen": [
+            {
+                "Text": {
+                    "Rus": "10^0 - Аккуратнее тыкай, оператива шатается",
+                    "Eng": "10^0 - Poke carefully, the RAM is staggering"
+                },
+                "Power": 0
+            },
+            {
+                "Text": {
+                    "Rus": "10^1 - Как рука?",
+                    "Eng": "10^1 - The hand?"
+                },
+                "Power": 1
+            },
+            {
+                "Text": {
+                    "Rus": "10^2 - *Операционная система выходит из чата*",
+                    "Eng": "10^2 - *Operating system leaves chat*"
+                },
+                "Power": 2
+            },
+            {
+                "Text": {
+                    "Rus": "10^3 - Твои пальцы просто сокровище! Тебе так часто говорят?",
+                    "Eng": "10^3 - Your fingers are just a treasure! You say so often?"
+                },
+                "Power": 3
+            }
+        ],
+        "Archivs": [
+            {
+                "Text": {
+                    "Rus": "10% - Комьютеру с каждым кликом легче",
+                    "Eng": "10% - Computer is easier with every click"
+                },
+                "Value": 10
+            },
+            {
+                "Text": {
+                    "Rus": "25% - Баннеры тебя уже бояться",
+                    "Eng": "25% - Banners are already afraid of you"
+                },
+                "Value": 25
+            },
+            {
+                "Text": {
+                    "Rus": "40% - Теперь ты получил способость к AD чувствительности",
+                    "Eng": "40% - Now you got the ability for AD sensitivity"
+                },
+                "Value": 40
+            },
+            {
+                "Text": {
+                    "Rus": "60% - Твой комьютер уже улыбается, за окном ночь, время ещё есть",
+                    "Eng": "60% - Your computer is already smiling, night is outside the window, there is still time"
+                },
+                "Value": 60
+            },
+            {
+                "Text": {
+                    "Rus": "80% - Прошёл месяц жизни!?",
+                    "Eng": "80% - A month has passed!?"
+                },
+                "Value": 80
+            },
+            {
+                "Text": {
+                    "Rus": "100% - Ты очистил мир, себя и свой комьютер от рекламы, пора телик посмотреть что-ли",
+                    "Eng": "100% - You cleaned the world, yourself and your computer from advertising, it's time to watch telly or something"
+                },
+                "Value": 100
+            }
+        ],
+        "Levels": [ 
+			{
+				"Text": {
+                    "Rus": "Рабочий стол",
+                    "Eng": "Desktop"
+                },
+				"Lore": {
+					"Rus": [
+					    "Однажды твой приятель подогнал тебе флешку с красивым логотипом слона. Ты без колебания вставил её и началось.",
+					    "Откуда-то пришли они - рекламные баннеры.",
+					    "Ты яростно бросился на них вооруженный одной лишь мышкой.",
+					    "Но спустя час битвы ты понял,что ты не в силах противостоять орде баннеров, они всё всплывают и всплывают.",
+					    "Ты предпринял попытку выдернуть флешку, но это не помогло, тогда ты выключил компьютер из сети, но и это не спасло.",
+					    "Наконец ты забил и лёг спать. Проснувшись от звуков,",
+					    "ты включил монитор и из динамиков услышал как они зовут тебя.",
+					    "Твой верный слуга компьютер чуть ли не горит, баннеры истощили его и ты решил помочь ему.",
+					    "\nС этого начинается игра."
+					],
+					"Eng": [
+					   "Once your friend fitted you with a flash drive with a beautiful elephant logo. You put it in without hesitation and started.",
+					   "They're - ad banners from somewhere.",
+					   "You fiercely lunged at them armed with only one mouse.",
+					   "But after an hour of battle, you realized that you are unable to resist the horde of banners, they all pop up and pop up.",
+					   "You tried to pull out the USB flash drive, but it did not help, then you turned off the computer from the network, but that did not help either.",
+					   "Finally you scored and went to bed. Waking up from the sounds,",
+					   "you turned on the monitor and heard them calling you from the speakers.",
+					   "Your faithful servant, the computer is almost burning, banners have exhausted him and you decided to help him.",
+					   "\nThis is where the game starts."
+					]
+				},
+				"Value": 0,
+				"Power": 0
+			},
+			{
+				"Text": {
+                    "Rus": "Браузер BrowSerch",
+                    "Eng": "Browser BrowSerch"
+                },
+				"Lore": {
+					"Rus": [
+						"Компьютер спасён реклама больше не преследует его.",
+						"Ты можешь жить свободной жизнью как прежде.",
+						"Прошло 5 лет.",
+						"Твой приятель кидает тебе ссылку без разъяснений ты переходишь и всё сначала.",
+						"Воинство рекламщиков атакует твой браузер, жрёт оперативу, гонит проц.",
+						"Компьютер снова сжался от страха, но не ты.",
+						"Твои знания, твой опыт борьбы помогают тебе вступить в неравный бой на новом поле."
+					],
+					"Eng": [
+						"The computer is saved, advertising no longer haunts it.",
+						"You can live a free life as before.",
+						"5 years later.",
+						"Your friend throws you a link without explanation, you go over and all over again.",
+						"A host of advertisers are attacking your browser, eating the operative, driving the percent.",
+						"The computer shrank again with fear, but not you.",
+						"Your knowledge, your experience of fighting help you to enter into an unequal battle on a new field."
+					]
+				},
+				"Value": 1,
+				"Power": 12
+			},
+			{
+				"Text": {
+                    "Rus": "Конец баннерам!",
+                    "Eng": "Banners are won!"
+                },
+				"Lore": {
+					"Rus": [
+						"Ты отбил нашествие баннеров и снова спас не только свой комьютер, но и всю сеть интернет.",
+						"Не зазнавайся.",
+						"Ты решил повесить постер со своими подвигами на стену, как только ты закончил твой приятель открыл дверь и сказал, что помощь нужна не только в этом мире.",
+						"Подробнее ты узнаешь попав в каждый по отдельности.",
+						"Выбора как ты понимаешь у тебя нет. Вся вселенная теперь нуждается в тебе.",
+						"Удачи земной путь ты прошёл."
+						]
+				},
+				"Value": 1,
+				"Power": 20
+			} 
+		]
+    },
+    "News": [
+        {
+            "Rus": "Пока кликаешь комьютер живёт",
+            "Eng": "While you click, the computer lives"
+        },
+        {
+            "Rus": "Жизнь боль когда у тебя ноль",
+            "Eng": "Life is pain when you have zero"
+        },
+        {
+            "Rus": "Вот они справа налево, баннер, реклама, вирус",
+            "Eng": "Here they are, from right to left, banner, advertisement, virus"
+        },
+        {
+            "Rus": "Если вы заметили баг, ошибку которая мешает вам играть, пишете срочно нам",
+            "Eng": "If you notice a bug, an error that prevents you from playing, write to us urgently"
+        },
+        {
+            "Rus": "Пара банок энергетиков и одна бессоная ночь не сделает из тебя героя",
+            "Eng": "A pair of cans of power engineers and one sleepless night will not make you a hero"
+        },
+        {
+            "Rus": "ShockInterview: Нам потребовалась одна бессоная ночь и бутылка водки",
+            "Eng": "ShockInterview: It took us one sleepless night and a bottle of vodka"
+        },
+        {
+            "Rus": "Немногие знали, но ты играешь в сатирическую игру",
+            "Eng": "Few knew, but you play a satirical game"
+        },
+        {
+            "Rus": "BeautyBlog: Эксперту понравилась новая защита от спама в актуальной версии операционной системы",
+            "Eng": "BeautyBlog: The expert liked the new spam protection in the current version of the operating system"
+        },
+        {
+            "Rus": "Группа независимых разработчиков заявила о разработке супер антивируса, он блокирует любую рекламу",
+            "Eng": "A group of independent developers announced the development of a super antivirus, it blocks any advertising"
+        },
+        {
+            "Rus": "Помните и про ваш реальный ПК или телефон, они тоже нуждаются в уходе",
+            "Eng": "Remember about your real PC or phone, they also need care"
+        },
+        {
+            "Rus": "Телефон - это кликер",
+            "Eng": "Phone is a clicker"
+        },
+        {
+            "Rus": "Слышали про систему паков?",
+            "Eng": "Have you heard about the pack system?"
+        },
+        {
+            "Rus": "Бесит реальная реклама? Поверь нас тоже",
+            "Eng": "Enraged by real advertising? Trust us too"
+        },
+        {
+            "Rus": "Произошёл взлом, произошёл взлом. Привет это баннеры, ты не сможешь нас победить, твой комьютер скоро взорвётся",
+            "Eng": "Hacked, hacked. Hi, these are banners, you cannot defeat us, your computer will explode soon"
+        },
+        {
+            "Rus": "Завтра в 9:00 в доме культуры состоиться лекция ПК для чайников",
+            "Eng": "Tomorrow at 9:00 a lecture of a PC for dummies will be held in the house of culture"
+        },
+        {
+            "Rus": "Мэр заявил о повышенной нагрузке на электрическую сеть за последний месяц",
+            "Eng": "The mayor announced an increased load on the electric network in the last month"
+        },
+        {
+            "Rus": "Помните про еду. Когда хорошо поешь, начнёшь работать, ну, или уснешь",
+            "Eng": "Remember about food. When you eat well, you’ll start working, or you’ll fall asleep"
+        },
+        {
+            "Rus": "срочно! срочно! получи %s халявных контрактов",
+            "Eng": "urgently! urgently! get %s free contracts"
+        },
+        {
+            "Rus": "срочно! срочно! умножь свой потенциал! получи x%b на %s минут!",
+            "Eng": "urgently! urgently! multiply your potential! get x%b on %s minutes!"
+        }
+    ],
+    "Name": {
+      "Rus": "Стандартный пак",
+      "Eng": "Default Pack"
+    },
+	"Busters":{
+		"Time":[
+			{
+				"Value": 1,
+				"Text": {
+					"Rus": "Прогресс за 1 час",
+					"Eng": "Get all score for 1 hour now"
+				},
+				"Cost": 15
+			},
+			{
+				"Value": 3,
+				"Text": {
+					"Rus": "Прогресс за 3 часa",
+					"Eng": "Get all score for 3 hours now"
+				},
+				"Cost": 40
+			},
+			{
+				"Value": 12,
+				"Text": {
+					"Rus": "Прогресс за 12 часa",
+					"Eng": "Get all score for 12 hours now"
+				},
+				"Cost": 100
+			},
+			{
+				"Value": 24,
+				"Text": {
+				    
+					"Rus": "Прогресс за 24 часa",
+					"Eng": "Get all score for 24 hours now"
+				},
+				"Cost": 150
+			}
+		],
+		"Click":[
+			{
+				"Value": 10,
+				"Text": {
+					"Rus": "Автокликер на 10 минут",
+					"Eng": "AutoClicker for 10 minutes"
+				},
+				"Cost": 20
+			},
+			{
+				"Value": 30,
+				"Text": {
+					"Rus": "Автокликер на 30 минут",
+					"Eng": "AutoClicker for 30 minutes"
+				},
+				"Cost": 50
+			}	,
+			{
+				"Value": 60,
+				"Text": {
+					"Rus": "Автокликер на 1 час",
+					"Eng": "AutoClicker for 1 hour"
+				},
+				"Cost": 100
+			}			
+		]
+	},
+    "PlayLevels": [
+        {
+            "Name": {
+                "Rus": "Рабочий стол",
+                "Eng": "Desktop"
+            },
+            "ads": [
+                //1
+                {
+                    "text": {
+                        "Rus": "",
+                        "Eng": ""
+                    },
+                    "picture": "AD_Alert",
+                    "local": true
+                },
+                //2
+                {
+                    "text": {
+                        "Rus": "Наш художник мастер своего дела. Ты не смотри на все это, лучше взгляни на 10 произведений искусства 20 века",
+                        "Eng": "Our artist is a master of his craft. Don’t look at all this, better look at 10 works of art of the 20th century"
+                    },
+                    "picture": "AD_Artist",
+                    "local": true
+                },
+                //3
+                {
+                    "text": {
+                        "Rus": "Бабушкин бургер у нас в БИГбургер и не только. Заходите!",
+                        "Eng": "Grandma’s burger is in our BIGburger and more over. Come on in!"
+                    },
+                    "picture": "AD_Burger",
+                    "local": true
+                },
+                //4
+                {
+                    "text": {
+                        "Rus": "Забей на экзамены и поспи! Мы разработали действенный способ сдать экзамен без зубрежки",
+                        "Eng": "Hammer in exams and sleep! We have developed an effective way to pass the exam by cramming"
+                    },
+                    "picture": "AD_Exam",
+                    "local": true
+                },
+                //5
+                {
+                    "text": {
+                        "Rus": "Робот гражданин спрятался в коробке из-под человека и не смог вылезти.",
+                        "Eng": "Robot-cityzen hide in box of human but cannot get out"
+                    },
+                    "picture": "AD_Grave",
+                    "local": true
+                },
+                //6
+                {
+                    "text": {
+                        "Rus": "10 возможностей вашего компьтера о которых вы не догадывались",
+                        "Eng": "10 features of your computer that you did not know about"
+                    },
+                    "picture": "AD_PC_modifier",
+                    "local": true
+                },
+                //7
+                {
+                    "text": {
+                        "Rus": "Вы ленивый и можете только прокастенировать? Мы собрали для вас книги по искуству искать отговорки!",
+                        "Eng": "Are you lazy and can only procrastinate? We've put together art books for you to look for excuses!"
+                    },
+                    "picture": "AD_Excuses",
+                    "local": true
+                },
+                //8
+                {
+                    "text": {
+                        "Rus": "Клуб \"Волосатого слона\" приглашает всех на открытие своей двери!",
+                        "Eng": "The \"Hairy elephant\" club invites everyone to open his door!"
+                    },
+                    "picture": "AD_HairyElephant",
+                    "local": true
+                },
+                //9
+                {
+                    "text": {
+                        "Rus": "Безопасная пластиковая посуда оказалась смертельно опасна! Не попадись на рекламу уловку. Дл этого надо...",
+                        "Eng": "Safe plastic dishes turned out to be deadly! Do not fall for an advertising trick. You should just..."
+                    },
+                    "picture": "AD_Plastic",
+                    "local": true
+                },
+                //10
+                {
+                    "text": {
+                        "Rus": "Программист хотел переписать исходный код, а переписал матрицу нашей реальности.",
+                        "Eng": "The programmer want to rewrite the source code, and rewrote the matrix of our reality."
+                    },
+                    "picture": "AD_Singularity",
+                    "local": true
+                },
+                //11
+                {
+                    "text": {
+                        "Rus": "Стало известно кто станет новым филантропом, гением, мстителем",
+                        "Eng": "It became known who will become the new philanthropist, genius, avenger"
+                    },
+                    "picture": "AD_Actor",
+                    "local": true
+                },
+                //12
+                {
+                    "text": {
+                        "Rus": "Чижик и пыжик решили пощупать немецкую крошку на скорости",
+                        "Eng": "Chizhik and fawn decided to feel the German babe at speed"
+                    },
+                    "picture": "AD_Chizhik",
+                    "local": true
+                },
+                //13
+                {
+                    "text": {
+                        "Rus": "Новый тренд задан. Вы удивитесь но оказывается эта вещь есть в доме каждого",
+                        "Eng": "A new trend has been set. You’ll be surprised, but it turns out this thing is in everyone’s house."
+                    },
+                    "picture": "AD_Think",
+                    "local": true
+                },
+                //14
+                {
+                    "text": {
+                        "Rus": "Губернатор отчитался о закупке новых высокотехнологичных транспортных средств для пожарных. Поражает",
+                        "Eng": "The governor reported on the purchase of new high-tech vehicles for firefighters. Striking"
+                    },
+                    "picture": "AD_Firefightercar",
+                    "local": true
+                },
+                //15
+                {
+                    "text": {
+                        "Rus": "Куда делись сильные и независимые мужчины? Они все идут в...",
+                        "Eng": "Where did the strong and independent men go? They all go to..."
+                    },
+                    "picture": "AD_StrongMen",
+                    "local": true
+                },
+                //16
+                {
+                    "text": {
+                        "Rus": "Примите участие в новом челлендже. Скучно не будет!",
+                        "Eng": "Take part in the new challenge. It will not be boring!"
+                    },
+                    "picture": "AD_Challenge",
+                    "local": true
+                },
+                //17
+                {
+                    "text": {
+                        "Rus": "Ваша реакция на нашу рекламу. Мы угадали?",
+                        "Eng": "Your reaction to our advertising. Have we guessed?"
+                    },
+                    "picture": "AD_Reaction",
+                    "local": true
+                },
+                //18
+                {
+                    "text": {
+                        "Rus": "Голубь Шпион. Как отличить от обычного?",
+                        "Eng": "Dove Spy. How to distinguish from the usual?"
+                    },
+                    "picture": "AD_Spy",
+                    "local": true
+                },
+                //19
+                {
+                    "text": {
+                        "Rus": "Стало известно о новом герое комиксов. Покупайте аттрибутику пока она есть!",
+                        "Eng": "It became known about the new comic book hero. Buy the attribute while it is!"
+                    },
+                    "picture": "AD_Sup",
+                    "local": true
+                },
+                //20
+                {
+                    "text": {
+                        "Rus": "Женщина открыла дверь,но забыла, что это окно",
+                        "Eng": "The woman opened the door, but forgot that this window"
+                    },
+                    "picture": "AD_womenwindow",
+                    "local": true
+                },
+                //21
+                {
+                    "text": {
+                        "Rus": "ЖабоЖук спрятался на Кашиике",
+                        "Eng": "FrillBeetle hid on Kashyyyk"
+                    },
+                    "picture": "AD_ZhuboZuk",
+                    "local": true
+                },
+                //22
+                {
+                    "text": {
+                        "Rus": "Работа нашего тестера наглядно\n(все телефоны мерты)",
+                        "Eng": "The work of our tester is clear \n (all phones are dead)"
+                    },
+                    "picture": "AD_Tester",
+                    "local": true
+                },
+                //23
+                {
+                    "text": {
+                        "Rus": "Вначале наш контент-мейкер представлял игру так",
+                        "Eng": "At the beginning, our content maker presented the game as follows"
+                    },
+                    "picture": "AD_Content",
+                    "local": true
+                },
+                //24
+                {
+                    "text": {
+                        "Rus": "Наелись и спят.Что ещё вы не знали о диких кабанах?",
+                        "Eng": "Eat and sleep. What else did you not know about wild boars?"
+                    },
+                    "picture": "AD_WildPig",
+                    "local": true
+                },
+				
+				//25
+                {
+                    "text": {
+                        "Rus": "Передача тока. Вольт и его помощник Эрстед",
+                        "Eng": "Transfer of current. Volt and his assistant Oersted"
+                    },
+                    "picture": "AD_ExpTok",
+                    "local": true
+                },
+				//26
+                {
+                    "text": {
+                        "Rus": "Каждый день публикуются новые статьи как узнать демонов. Выбрали самую полезную инфу",
+                        "Eng": "New articles on how to recognize demons are published every day. We chose the most useful info"
+                    },
+                    "picture": "AD_FootClan",
+                    "local": true
+                },
+				//27
+                {
+                    "text": {
+                        "Rus": "Протестующие требуют отдать им руку бога. Древний шумерский артефакт. Потерян с начала времён",
+                        "Eng": "The protesters demand to give them the hand of God. An ancient Sumerian artifact. Lost since the beginning of time"
+                    },
+                    "picture": "AD_GodHand",
+                    "local": true
+                },
+				//28
+                {
+                    "text": {
+                        "Rus": "Расследование Подвального. Что скрывает премьер?",
+                        "Eng": "Basement investigation. What is the prime minister hiding?"
+                    },
+                    "picture": "AD_NewHouseMedmedev",
+                    "local": true
+                },
+				//29
+                {
+                    "text": {
+                        "Rus": "\"Покатать шары\" - На время самоизоляции приобрело иной смысл",
+                        "Eng": "\"Roll the balls\" - acquired a different meaning during self-isolation"
+                    },
+                    "picture": "AD_MoveBalls",
+                    "local": true
+                }
+            ],
+            "purchases": {
+                "names": {
+                    "Rus": [
+                        "Прочитать книгу укращение комьютера",
+                        "Скачать актуальное обновление для ОС",
+                        "Ручная блокировка",
+                        "Софт на Мультимышь",
+                        "Доп оперативка",
+                        "Разогнать процессор",
+                        "Антивирус с флешки. Не троян!",
+                        "Бесплатный корпоративный антивирус",
+                        "Свой софт на Assembler",
+                        "Попросить помощи у эксперта",
+                        "Помощь тайного правительства",
+                        "Открыть компанию профессиональных закрывателей",
+                        "Вывести компанию на мировой уровень"
+                    ],
+                    "Eng": [
+                        "Read the computer embellishment book",
+                        "Download the latest update for the OS\"",
+                        "Hand Locking\"",
+                        "Software on the Mouse",
+                        "Extra RAM",
+                        "Overclock the processor",
+                        "Antivirus from a flash drive. Not a trojan!",
+                        "Free corporate antivirus",
+                        "Own software on Assembler",
+                        "Ask an expert for help",
+                        "Secret Government Assistance",
+                        "Open a company of professional closers",
+                        "Take the company to the world level"
+                    ]
+                },
+                "grades": [
+                  //1
+                    {
+                        "add": 8,
+                        "AddPower": 0,
+                        "cost": 31,
+                        "CostPower": 1
+                    },
+                    //2
+                    {
+                        "add": 27,
+                        "AddPower": 0,
+                        "cost": 18,
+                        "CostPower": 2
+                    },
+                    //3
+                    {
+                        "add": 11,
+                        "AddPower": 1,
+                        "cost": 1,
+                        "CostPower": 4
+                    },
+                    //4
+                    {
+                        "add": 46,
+                        "AddPower": 1,
+                        "cost": 6,
+                        "CostPower": 4
+                    },
+                    //5
+                    {
+                        "add": 18,
+                        "AddPower": 2,
+                        "cost": 35,
+                        "CostPower": 4
+                    },
+                    //6
+                    {
+                        "add": 76,
+                        "AddPower": 2,
+                        "cost": 2,
+                        "CostPower": 6
+                    },
+                    //7
+                    {
+                        "add": 31,
+                        "AddPower": 3,
+                        "cost": 12,
+                        "CostPower": 6
+                    },
+                    //8
+                    {
+                        "add": 12,
+                        "AddPower": 4,
+                        "cost": 73,
+                        "CostPower": 6
+                    },
+                    //9
+                    {
+                        "add": 53,
+                        "AddPower": 4,
+                        "cost": 44,
+                        "CostPower": 7
+                    },
+                    //10
+                    {
+                        "add": 22,
+                        "AddPower": 5,
+                        "cost": 27,
+                        "CostPower": 8
+                    },
+                    //11
+                    {
+                        "add": 96,
+                        "AddPower": 5,
+                        "cost": 17,
+                        "CostPower": 9
+                    },
+                    //12
+                    {
+                        "add": 41,
+                        "AddPower": 6,
+                        "cost": 1,
+                        "CostPower": 11
+                    },
+                    //13
+                    {
+                        "add": 18,
+                        "AddPower": 7,
+                        "cost": 7,
+                        "CostPower": 11
+                    }
+                ]
+            }
+        },
+        {
+            "Name": {
+                "Rus": "Браузер BrowSerch",
+                "Eng": "Browser BrowSerch"
+            },
+            "ads": [
+                //1
+                {
+                    "text": {
+                        "Rus": "Российский автопром снова всех уел. Только посмотрите на какой красотке начнут ездить россияне в 2021",
+                        "Eng": "Russian auto industry again drove all. Just look at what beauty Russians will ride in 2021"
+                    },
+                    "picture": "AD_Rus2021",
+                    "local": true
+                },
+                //2
+                {
+                    "text": {
+                        "Rus": "Ваша реакция на нашу рекламу. Мы угадали?",
+                        "Eng": "Your reaction to our advertising. Have we guessed?"
+                    },
+                    "picture": "AD_Reaction",
+                    "local": true
+                },
+                //3
+                {
+                    "text": {
+                        "Rus": "Стало известно как будут рассчитывать зарплату после пандемии",
+                        "Eng": "It became known how they will calculate salaries after a pandemic"
+                    },
+                    "picture": "AD_Pandemic",
+                    "local": true
+                },
+                //4
+                {
+                    "text": {
+                        "Rus": "Купили 2 вещи когда могли 5?Скорее посетите наш сайт",
+                        "Eng": "Bought 2 things when they could 5? Rather, visit our site"
+                    },
+                    "picture": "AD_2vs5",
+                    "local": true
+                },
+                //5
+                {
+                    "text": {
+                        "Rus": "Астрологи наконец показали, что случиться с луной в ближайшее время...",
+                        "Eng": "Astrologers have finally revealed what will happen to the moon soon ..."
+                    },
+                    "picture": "AD_Moon",
+                    "local": true
+                },
+                //6
+                {
+                    "text": {
+                        "Rus": "Американцы вздрогнули от ужаса. Над их головами появилось..",
+                        "Eng": "The Americans flinched in horror. Over their heads appeared .."
+                    },
+                    "picture": "AD_USAPainted",
+                    "local": true
+                },
+                //7
+                {
+                    "text": {
+                        "Rus": "Новые кадры из киберпанка поражают своей детализацией",
+                        "Eng": "New frames from cyberpunk are striking in their detail"
+                    },
+                    "picture": "AD_Cyberpank",
+                    "local": true
+                },
+                //8
+                {
+                    "text": {
+                        "Rus": "Диетолог рассказал способ похудания на 50 кг без стреса и голодания всего за 2 дня! Для этого надо всего лишь...",
+                        "Eng": "A nutritionist told how to lose 50 kg without stress and starvation in 2 days! For this you should..."
+                    },
+                    "picture": "AD_Diet",
+                    "local": true
+                },
+                //9
+                {
+                    "text": {
+                        "Rus": "Тайное правительство существует! Бежать некуда, поэтому кликай дальше.",
+                        "Eng": "Secret government exists! Nowhere to run, so continue clicking on."
+                    },
+                    "picture": "AD_Carvus",
+                    "local": true
+                },
+                //10
+                {
+                    "text": {
+                        "Rus": "На церемонии по ошибки наградили болгарский перчик. Это было предсказанно...",
+                        "Eng": "At the ceremony, by mistake awarded the Bulgarian pepper. It was predicted by..."
+                    },
+                    "picture": "AD_Peper",
+                    "local": true
+                },
+                //11
+                {
+                    "text": {
+                        "Rus": "Как защитить деньги от жены? Нужно всего лишь..",
+                        "Eng": "How to protect money from a wife? It is only necessary .."
+                    },
+                    "picture": "AD_ProtectMoney",
+                    "local": true
+                },
+                //12
+                {
+                    "text": {
+                        "Rus": "Главный документ в жизни успешных русских.Успей заказать",
+                        "Eng": "The main document in the life of successful Russians"
+                    },
+                    "picture": "AD_Document",
+                    "local": true
+                },
+                //13
+                {
+                    "text": {
+                        "Rus": "Учёные обнаружили непонятное слово в руинах шумер",
+                        "Eng": "Scientists have discovered an incomprehensible word in the ruins of Sumerian"
+                    },
+                    "picture": "AD_Shymeri",
+                    "local": true
+                },
+                //14
+                {
+                    "text": {
+                        "Rus": "Вот, что пугало Колумба внутри неизвестного материка",
+                        "Eng": "This is what scared Columbus inside the unknown continent"
+                    },
+                    "picture": "AD_Columbus",
+                    "local": true
+                },
+                //15
+                {
+                    "text": {
+                        "Rus": "Денежное дерево существует.Что ещё скрывают власти Бейрута. . .",
+                        "Eng": "The money tree exists, what else are the Beirut authorities hiding? ..."
+                    },
+                    "picture": "AD_MoneyTree",
+                    "local": true
+                },
+                //16
+                {
+                    "text": {
+                        "Rus": "Бенкси оставил новый шедевр на улицах Москвы",
+                        "Eng": "Banksy left a new masterpiece on the streets of Moscow"
+                    },
+                    "picture": "AD_Banksi",
+                    "local": true
+                },
+                //17
+                {
+                    "text": {
+                        "Rus": "Малефисента пробудилась. Пугает фермеров и их скотину",
+                        "Eng": "Maleficent has awakened. Scares farmers and their livestock"
+                    },
+                    "picture": "AD_Melefisenta",
+                    "local": true
+                },
+                //18
+                {
+                    "text": {
+                        "Rus": "Что на самом деле твориться в америке? Пугающее фото",
+                        "Eng": "What's really going on in America? Scary photo"
+                    },
+                    "picture": "AD_ScaryAmerica",
+                    "local": true
+                },
+                //19
+                {
+                    "text": {
+                        "Rus": "Птицы Андроиды уже на деревьях. Спасите себя и своих близких",
+                        "Eng": "Birds Androids are already in the trees. Save yourself and your loved ones"
+                    },
+                    "picture": "AD_BirdAnd",
+                    "local": true
+                },
+                //20
+                {
+                    "text": {
+                        "Rus": "Новая игрушка для взрослых всё больше набирает популярность. В чём её успех?",
+                        "Eng": "The new toy for adults is gaining more and more popularity. What is her success?"
+                    },
+                    "picture": "AD_Toy",
+                    "local": true
+                },
+                //21
+                {
+                    "text": {
+                        "Rus": "Самые опасные шпионы в сельской местности. Присмотритесь",
+                        "Eng": "The most dangerous spies in the countryside. Take a closer look"
+                    },
+                    "picture": "AD_SpyFarm",
+                    "local": true
+                },
+                //22
+                {
+                    "text": {
+                        "Rus": "Cвершилось, учёные наконец получили визуализацию черной дыры",
+                        "Eng": "Happened, scientists finally got a visualization of a black hole"
+                    },
+                    "picture": "AD_3D",
+                    "local": true
+                },
+                //23
+                {
+                    "text": {
+                        "Rus": "Злейший враг всех сталкеров. Будьте бдительны",
+                        "Eng": "The worst enemy of all stalkers. Be carefull"
+                    },
+                    "picture": "AD_EnemyStalker",
+                    "local": true
+                },
+                //24
+                {
+                    "text": {
+                        "Rus": "Как понять, что у тебя психическое расстройство? Вглядись внимательно в картинку",
+                        "Eng": "How do you know if you have a mental disorder? Look closely at the picture"
+                    },
+                    "picture": "AD_MentalIll",
+                    "local": true
+                },
+				//25
+                {
+                    "text": {
+                        "Rus": "Самый опасный жест в мире, возможно вы делаете так каждый день",
+                        "Eng": "The most dangerous gesture in the world, you probably do it every day"
+                    },
+                    "picture": "AD_DangerAct",
+                    "local": true
+                },
+				//26
+                {
+                    "text": {
+                        "Rus": "Летучий голландец стоит в прибрежных водах России. Он проходит 2-х недельный карантин",
+                        "Eng": "The Flying Dutchman stands in the coastal waters of Russia. He is in quarantine for 2 weeks."
+                    },
+                    "picture": "AD_Golandec",
+                    "local": true
+                },
+				//27
+                {
+                    "text": {
+                        "Rus": "Показалось? Нам тоже нет",
+                        "Eng": "Seemed? We don't either"
+                    },
+                    "picture": "AD_Mirrage",
+                    "local": true
+                },
+				//28
+                {
+                    "text": {
+                        "Rus": "Правительство отчиталось о регистрации тысячной вакцины. О периоде вакцинации не сообщается",
+                        "Eng": "The government has reported on the registration of the thousandth vaccine. The period of vaccination is not reported"
+                    },
+                    "picture": "AD_NewVacine",
+                    "local": true
+                },
+				//29
+                {
+                    "text": {
+                        "Rus": "Штурм Персии войсками Александра Македонского. 1000 лет до н.э. Фото в цвете",
+                        "Eng": "The storming of Persia by the troops of Alexander the Great. 1000 BC Photo in color"
+                    },
+                    "picture": "AD_Persia",
+                    "local": true
+                },
+            ],
+            "purchases": {
+                "names": {
+                    "Rus": [
+                        "Режим защиты",
+                        "Настроить антивирус для Web",
+                        "Установка бездинамичного браузера",
+                        "Отключить Cookie",
+                        "Очистить Кеш",
+                        "Софт от старшего брата",
+                        "Сайт блокирующий рекламу",
+                        "Максимум оперативки",
+                        "Блокировщик онлайн",
+                        "Скрипт онлайн кликов",
+                        "офлайн режим",
+                        "Аутсорcинг кликов",
+                        "Создать ядро иключающие рекламу"
+                    ],
+                    "Eng": [
+                        "Protection Mode",
+                        "Configure Antivirus for Web",
+                        "Installing a Dynamic Browser",
+                        "Disable Cookie",
+                        "Clear Cache",
+                        "Software from Big Brother",
+                        "Site blocking ads",
+                        "Maximum RAM",
+                        "Online Blocker",
+                        "Script online clicks",
+                        "Without the Internet mode ...",
+                        "Click Outsourcing",
+                        "Create a core inclusive ad"
+                    ]
+                },
+                "grades": [
+                    //1
+                    {
+                        "add": 35,
+                        "AddPower": 9,
+                        "cost": 24,
+                        "CostPower": 11
+                    },
+                    //2
+                    {
+                        "add": 15,
+                        "AddPower": 10,
+                        "cost": 12,
+                        "CostPower": 12
+                    },
+                    //3
+                    {
+                        "add": 69,
+                        "AddPower": 10,
+                        "cost": 65,
+                        "CostPower": 12
+                    },
+                    //4
+                    {
+                        "add": 31,
+                        "AddPower": 11,
+                        "cost": 35,
+                        "CostPower": 13
+                    },
+                    //5
+                    {
+                        "add": 14,
+                        "AddPower": 12,
+                        "cost": 19,
+                        "CostPower": 14
+                    },
+                    //6
+                    {
+                        "add": 71,
+                        "AddPower": 12,
+                        "cost": 11,
+                        "CostPower": 15
+                    },
+                    //7
+                    {
+                        "add": 35,
+                        "AddPower": 13,
+                        "cost": 68,
+                        "CostPower": 15
+                    },
+                    //8
+                    {
+                        "add": 18,
+                        "AddPower": 14,
+                        "cost": 43,
+                        "CostPower": 16
+                    },
+                    //9
+                    {
+                        "add": 99,
+                        "AddPower": 14,
+                        "cost": 28,
+                        "CostPower": 17
+                    },
+                    //10
+                    {
+                        "add": 56,
+                        "AddPower": 15,
+                        "cost": 19,
+                        "CostPower": 18
+                    },
+                    //11
+                    {
+                        "add": 33,
+                        "AddPower": 16,
+                        "cost": 14,
+                        "CostPower": 19
+                    },
+                    //12
+                    {
+                        "add": 21,
+                        "AddPower": 17,
+                        "cost": 11,
+                        "CostPower": 20
+                    },
+                    //13
+                    {
+                        "add": 14,
+                        "AddPower": 18,
+                        "cost": 99,
+                        "CostPower": 20
+                    }
+                ]
+            }
+        },
+    ],
+	"PlayScene":[
+        {
+            "Name": {
+                "Rus": "Редактор рекламы онлайн",
+                "Eng": "Ad editor online"
+            },
+			"Scene": 3
+        }
+	]
+  },
+  {
+    "Archivment": {
+      "Score": [
+        {
+          "Text": {
+            "Rus": "10^0 - Первый доллар, долго искал?",
+            "Eng": "10^0 - The first dollar, long sought?"
+          },
+          "Power": 0
+        },
+        {
+          "Text": {
+            "Rus": "10^9 - Стремишься к госдолгу США?",
+            "Eng": "10^9 - Striving for the US public debt?"
+          },
+          "Power": 9
+        },
+        {
+          "Text": {
+            "Rus": "10^18 - Предпочитаешь хранить такую сумму на карте?",
+            "Eng": "10^18 - Prefer to keep this amount on the card?"
+          },
+          "Power": 18
+        },
+        {
+          "Text": {
+            "Rus": "10^36 - Сколько карьеров ты уже засыпал деньгами?",
+            "Eng": "10^36 - How many quarries have you already covered in money?"
+          },
+          "Power": 36
+        }
+      ],
+      "PerSecond": [
+        {
+          "Text": {
+            "Rus": "10^1 - Расслабься ,отдохни, деньги тебе занесут завтра",
+            "Eng": "10^1 - Relax, take a rest, they will bring you money tomorrow"
+          },
+          "Power": 0
+        },
+        {
+          "Text": {
+            "Rus": "10^6 - Разве это предел!?",
+            "Eng": "10^6 - Is this the limit !?"
+          },
+          "Power": 6
+        },
+        {
+          "Text": {
+            "Rus": "10^9 - Наелся и спишь.Деньги делают себя сами",
+            "Eng": "10^9 - Eaten up and sleep. Money make themselves"
+          },
+          "Power": 9
+        },
+        {
+          "Text": {
+            "Rus": "10^18 - Голодают люди, горят леса, твой счёт отныне навсегда!",
+            "Eng": "10^18 - People are starving, forests are burning, your score is now forever!"
+          },
+          "Power": 18
+        }
+      ],
+      "BlueScreen": [
+        {
+          "Text": {
+            "Rus": "",
+            "Eng": ""
+          },
+          "Power": 0
+        },
+        {
+          "Text": {
+            "Rus": "",
+            "Eng": ""
+          },
+          "Power": 1
+        },
+        {
+          "Text": {
+            "Rus": "",
+            "Eng": ""
+          },
+          "Power": 2
+        },
+        {
+          "Text": {
+            "Rus": "",
+            "Eng": ""
+          },
+          "Power": 3
+        }
+      ],
+      "Time": [
+        {
+          "Text": {
+            "Rus": "20 минут - туда и обратно",
+            "Eng": "20 minutes - round trip"
+          },
+          "Power": 20
+        },
+        {
+          "Text": {
+            "Rus": "1-ый час - Ты могу же заработать 300 рублей в маке, а сидишь тут!",
+            "Eng": "1st hour - You can earn 300 rubles at McDonald's, but you are sitting here!"
+          },
+          "Power": 60
+        },
+        {
+          "Text": {
+            "Rus": "2-ой час - Добъёте Пак?",
+            "Eng": "2nd hour - Finish Pack?"
+          },
+          "Power": 360
+        }
+      ],
+      "Wasted": [
+        {
+          "Text": {
+            "Rus": "10^2 - Магазин рад видеть вас снова",
+            "Eng": "10^2 - The store is glad to see you again"
+          },
+          "Power": 0
+        },
+        {
+          "Text": {
+            "Rus": "10^6 - Тратьте с умом, деньги много не бывает",
+            "Eng": "10^6 - Spend wisely, money does not happen much"
+          },
+          "Power": 1
+        },
+        {
+          "Text": {
+            "Rus": "10^18 - У нас на выбор есть пару стран, посмотрите?",
+            "Eng": "10^18 - We have a couple of countries to choose from, look?"
+          },
+          "Power": 2
+        },
+        {
+          "Text": {
+            "Rus": "10^36 - Уже думали над приобретением собственной планеты?",
+            "Eng": "10^36 - Already thinking about acquiring your own planet?"
+          },
+          "Power": 3
+        }
+      ],
+      "Archivs": [
+        {
+          "Text": {
+            "Rus": "50% - Вас вызвали в суд, не дело иметь столько денег",
+            "Eng": "50% - You were summoned to court, it’s not a matter of having so much money"
+          },
+          "Power": 0
+        },
+        {
+          "Text": {
+            "Rus": "75% - Вы самый влиятельный человек на планете",
+            "Eng": "75% - You are the most powerful person on the planet"
+          },
+          "Power": 1
+        },
+        {
+          "Text": {
+            "Rus": "100% - Ислледования показали, вы состоите полностью из денег. Это успех",
+            "Eng": "100% - Studies have shown you are made entirely of money. It's a success"
+          },
+          "Power": 2
+        }
+      ],
+      "Levels": [
+        {
+          "Text": {
+            "Rus": "Шавуха в зубах, котлы на руках, ты достиг этого сам!",
+            "Eng": "Shawarma in the teeth, a watch on your hands, you have achieved this yourself!"
+          },
+          "Power": 0
+        },
+        {
+          "Text": {
+            "Rus": "Бизнесс это хорошо, но хочется чего-то масштабнее",
+            "Eng": "Business is good, but I want something bigger"
+          },
+          "Power": 1
+        },
+        {
+          "Text": {
+            "Rus": "Город в окне, баксы в руке, Forbes number one, но только в игре!",
+            "Eng": "City in the window, bucks in the hand, Forbes number one, but only in the game!"
+          },
+          "Power": 2
+        }
+      ]
+    },
+    "News": [
+      {
+        "Rus": "Говорят в долларе 100 центов",
+        "Eng": "They say the dollar is 100 cents"
+      },
+      {
+        "Rus": "journal of a successful entrepreneur: Скрудж МакДак существует",
+        "Eng": "journal of a successful entrepreneur: Scrooge McDuck exists"
+      },
+      {
+        "Rus": "Interview: На предпринимательство меня сподвигла учительница по математике, она всегда говорила, делайте всё сами",
+        "Eng": "Interview: A math teacher encouraged me to do business, she always said do it yourself"
+      },
+      {
+        "Rus": "Нефть спряталась. Не ищите",
+        "Eng": "Oil hid. Do not look"
+      },
+      {
+        "Rus": "Первый капитал я заработал на картошке",
+        "Eng": "The first capital I earned on potatoes"
+      },
+      {
+        "Rus": "Первое на что нужно потратить деньги - ЕДА",
+        "Eng": "The first thing you need to spend money on is FOOD"
+      },
+      {
+        "Rus": "На прошлой недели из хранилища национального банка был украден один рубль",
+        "Eng": "Last week, one ruble was stolen from the depository of a national bank"
+      },
+      {
+        "Rus": "Forbs: Пока вы не заработали 300$ вы никто",
+        "Eng": "Forbs: Until you earn $ 300 you are nobody"
+      },
+      {
+        "Rus": "Глобальный кризис уже скоро",
+        "Eng": "Global crisis coming soon"
+      },
+      {
+        "Rus": "Делать деньги просто для этого каждый день тратьте всего 5 минут",
+        "Eng": "Making money is easy; just spend 5 minutes every day."
+      },
+      {
+        "Rus": "Тренинг с бомжа до рокфелера за месяц. !ЗАПИСЬ БЕСПЛАТНАЯ!",
+        "Eng": "Training from homeless to rockefeller in a month. ! RECORDING FOR FREE!"
+      },
+      {
+        "Rus": "Утром я был продавцом, а ночью стал брокером!",
+        "Eng": "In the morning I was a seller, and at night I became a broker!"
+      },
+      {
+        "Rus": "Если у вас много денег, поделитесь с нами(",
+        "Eng": "If you have a lot of money, share with us ("
+      },
+      {
+        "Rus": "Немногие знают, но на игру мы не потратили ни цента",
+        "Eng": "Few know, but we didn’t spend a cent on the game"
+      },
+      {
+        "Rus": "Развлеки Волосатого слона, нажми donate",
+        "Eng": "Entertain the hairy elephant, click donate"
+      },
+      {
+        "Rus": "Онлайн заработок в интернете! От вас только ноут и желание!",
+        "Eng": "Online earnings on the Internet! From you only a laptop and desire!"
+      },
+      {
+        "Rus": "Денежные притоки или как открыть чакру миллионера",
+        "Eng": "Cash inflows or how to open a millionaire's chakra"
+      },
+      {
+        "Rus": "Золото - лучшая валюта",
+        "Eng": "Gold - is the best currency"
+      }
+    ],
+    "Name": {
+      "Rus": "Бизнес Пак",
+      "Eng": "Business Pack"
+    },
+    "PlayLevels": [
+      {
+        "Name": {
+          "Rus": "Трущобы Мегаполиса",
+          "Eng": "Megalopolis Slums"
+        },
+        "ads": [
+          {
+            "text": {
+              "Rus": "Вы уже слышали о новом вирусе 'математичка'?\nОт него пострадали уже более 60 тысяч!",
+              "Eng": "What is a new virus of math teacher?\nInfected more than 60 thousand!"
+            },
+            "picture": "teacher",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "Хочу кушать",
+              "Eng": "Our Game-designer want to eat.\nClick here and he will have a dinner!"
+            },
+            "picture": "game-designer",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "Робот гражданин спрятался в коробке из-под человека и не смог вылезти. Бедолага!",
+              "Eng": "Robot-cityzen hide in box of human but cannot get out"
+            },
+            "picture": "grave",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "10 возможностей вашего компьтера о которых вы не догадывались",
+              "Eng": ""
+            },
+            "picture": "pc_modifier",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "Вы ленивый и вас постоянно за это ругают? мы собрали для вас книги по искуству искать отговорки!",
+              "Eng": ""
+            },
+            "picture": "excuses",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "клуб 'волосатого слона' приглашает всех на открытие своей двери!",
+              "Eng": ""
+            },
+            "picture": "BG_HairyElephant",
+            "local": true
+          }
+        ],
+        "purchases": {
+          "names": {
+            "Rus": [
+              "Найти монеты на тротурах",
+              "Сдать бутылки",
+              "Попросить у прохожего",
+              "Станцевать на площаде",
+              "Устроиться дворником",
+              "Работать грузчиком",
+              "Организовать бомжей",
+              "Делать закладки",
+              "Организовать банду",
+              "Грабить магазины"
+            ],
+            "Eng": [
+              "Find coins on the sidewalks",
+              "Hand over the bottle",
+              "Ask a passerby",
+              "Dance on the square",
+              "Get a janitor",
+              "Work as a loader",
+              "Lead the homeless",
+              "Bookmark",
+              "Organize a gang",
+              "Rob shops"
+            ]
+          },
+          "grades": [
+            {
+              "add": 1,
+              "cost": 10
+            },
+            {
+              "add": 10,
+              "cost": 100
+            },
+            {
+              "add": 100,
+              "cost": 150
+            },
+            {
+              "add": 500,
+              "cost": 200
+            },
+            {
+              "add": 550,
+              "cost": 300
+            },
+            {
+              "add": 1000,
+              "cost": 500
+            },
+            {
+              "add": 1200,
+              "cost": 1000
+            },
+            {
+              "add": 1534,
+              "cost": 5500
+            },
+            {
+              "add": 1959,
+              "cost": 9999
+            }
+          ]
+        }
+      },
+      {
+        "Name": {
+          "Rus": "Небольшой офис",
+          "Eng": "Small office"
+        },
+        "Path": "Btn_shop",
+        "ads": [
+          {
+            "text": {
+              "Rus": "Хочу кушать",
+              "Eng": "Our Game-designer want to eat.\nClick here and he will have a dinner!"
+            },
+            "picture": "game-designer",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "Робот гражданин спрятался в коробке из-под человека и не смог вылезти. Бедолага!",
+              "Eng": "Robot-cityzen hide in box of human but cannot get out"
+            },
+            "picture": "grave",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "10 возможностей вашего компьтера о которых вы не догадывались",
+              "Eng": ""
+            },
+            "picture": "pc_modifier",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "Вы ленивый и вас постоянно за это ругают? мы собрали для вас книги по искуству искать отговорки!",
+              "Eng": ""
+            },
+            "picture": "excuses",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "клуб 'волосатого слона' приглашает всех на открытие своей двери!",
+              "Eng": ""
+            },
+            "picture": "BG_HairyElephant",
+            "local": true
+          }
+        ],
+        "purchases": {
+          "names": {
+            "Rus": [
+              "Расклеить рекламу",
+              "Повесить вывеску",
+              "Создать бизнесс план",
+              "Нанять уборщицу",
+              "Нанять сотрудника",
+              "Купить более мощный компьютер",
+              "Поставить сотруднику стул",
+              "Начать продавать бомж-пакеты",
+              "Торговать на Ali",
+              "Торговать на Amazon"
+            ],
+            "Eng": [
+              "Put up ads",
+              "Hang a sign",
+              "Create a business plan",
+              "Hire a cleaning lady",
+              "Hire an employee",
+              "Buy a more powerful computer",
+              "Put a chair for an employee",
+              "Start selling homeless packages",
+              "Trade on Ali",
+              "Trade on Amazon"
+            ]
+          },
+          "grades": [
+            {
+              "add": 1,
+              "cost": 10
+            },
+            {
+              "add": 10,
+              "cost": 100
+            },
+            {
+              "add": 100,
+              "cost": 150
+            },
+            {
+              "add": 500,
+              "cost": 200
+            },
+            {
+              "add": 550,
+              "cost": 300
+            },
+            {
+              "add": 1000,
+              "cost": 500
+            },
+            {
+              "add": 1200,
+              "cost": 1000
+            },
+            {
+              "add": 1534,
+              "cost": 5500
+            },
+            {
+              "add": 1959,
+              "cost": 9999
+            }
+          ]
+        }
+      },
+      {
+        "Name": {
+          "Rus": "Большая промышленная компания",
+          "Eng": "Large industrial company"
+        },
+        "Path": "Btn_shop",
+        "ads": [
+          {
+            "text": {
+              "Rus": "Вы уже слышали о новом вирусе 'математичка'?\nОт него пострадали уже более 60 тысяч!",
+              "Eng": "What is a new virus of math teacher?\nInfected more than 60 thousand!"
+            },
+            "picture": "teacher",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "Хочу кушать",
+              "Eng": "Our Game-designer want to eat.\nClick here and he will have a dinner!"
+            },
+            "picture": "game-designer",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "Робот гражданин спрятался в коробке из-под человека и не смог вылезти. Бедолага!",
+              "Eng": "Robot-cityzen hide in box of human but cannot get out"
+            },
+            "picture": "grave",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "10 возможностей вашего компьтера о которых вы не догадывались",
+              "Eng": ""
+            },
+            "picture": "pc_modifier",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "Вы ленивый и вас постоянно за это ругают? мы собрали для вас книги по искуству искать отговорки!",
+              "Eng": ""
+            },
+            "picture": "excuses",
+            "local": true
+          },
+          {
+            "text": {
+              "Rus": "клуб 'волосатого слона' приглашает всех на открытие своей двери!",
+              "Eng": ""
+            },
+            "picture": "BG_HairyElephant",
+            "local": true
+          }
+        ],
+        "purchases": {
+          "names": {
+            "Rus": [
+              "Нанять маркетологов",
+              "Открыть завод",
+              "Продавать туалетную бумагу",
+              "Продавать маски",
+              "Выкупить конкурентов",
+              "Поглотить Ali",
+              "Поглотить Amazon",
+              "Купить нефтяную вышку",
+              "Производить высококачественный бензин",
+              "Стать Монополистом на рынке нефтепродуктов"
+            ],
+            "Eng": [
+              "Hire Marketers",
+              "Open a factory",
+              "Sell toilet paper",
+              "Sell masks",
+              "Redeem competitors",
+              "Absorb Ali",
+              "Absorb Amazon",
+              "Buy an oil rig",
+              "Produce high quality gasoline",
+              "Become a Monopolist in the Petroleum Market"
+            ]
+          },
+          "grades": [
+            {
+              "add": 1,
+              "cost": 10
+            },
+            {
+              "add": 10,
+              "cost": 100
+            },
+            {
+              "add": 100,
+              "cost": 150
+            },
+            {
+              "add": 500,
+              "cost": 200
+            },
+            {
+              "add": 550,
+              "cost": 300
+            },
+            {
+              "add": 1000,
+              "cost": 500
+            },
+            {
+              "add": 1200,
+              "cost": 1000
+            },
+            {
+              "add": 1534,
+              "cost": 5500
+            },
+            {
+              "add": 1959,
+              "cost": 9999
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
